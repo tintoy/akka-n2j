@@ -6,5 +6,5 @@ Important aspects of the design to be considered:
 * Routing
 * Serialisation / Deserialisation
   * Mapping message types between CLR and JVM types
-  * Connection resillience
-  * Interaction with clustering?
+* Connection resillience
+* Interaction with clustering?
